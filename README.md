@@ -35,11 +35,15 @@ can do; the code itself is private (see [Why the code isn't here](#why-the-code-
 Two recorded calls with the agent. Beeps and short cuts hide personal details
 and the client's name.
 
-- **Hindi / English sales call** (2:34). The
+- **Hindi / English sales call** (2:34).
+https://github.com/user-attachments/assets/3f27a365-6573-44ff-b9d1-e99780225c89
+The
   agent opens in English, the caller answers in Hindi, and it switches to
   Hindi for the rest of the call while it qualifies them and offers a
   strategy call.
-- **English clinic receptionist** (1:51). A
+- **English clinic receptionist** (1:51).
+https://github.com/user-attachments/assets/d47fefc9-b525-4be8-b04d-b9955c63fba3
+A
   caller with back pain is matched to the right doctor from real availability,
   gives their details, hears them read back, and confirms a Monday slot.
 
