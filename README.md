@@ -28,6 +28,23 @@ can do; the code itself is private (see [Why the code isn't here](#why-the-code-
 
 ---
 
+## Hear it
+
+Two recorded calls with the agent. Beeps and short cuts hide personal details
+and the client's name.
+
+- **[Hindi / English sales call](docs/audio/demo-hindi.mp3)** (2:34). The
+  agent opens in English, the caller answers in Hindi, and it switches to
+  Hindi for the rest of the call while it qualifies them and offers a
+  strategy call.
+- **[English clinic receptionist](docs/audio/demo-english.mp3)** (1:51). A
+  caller with back pain is matched to the right doctor from real availability,
+  gives their details, hears them read back, and confirms a Monday slot.
+
+*Click a link, then "View raw" to play it in the browser.*
+
+---
+
 ## What it does
 
 - Places and answers real PSTN calls over a telephony provider's media
