@@ -30,8 +30,6 @@ can do; the code itself is private (see [Why the code isn't here](#why-the-code-
 
 ## Hear it
 
-### [▶ Listen to both calls in your browser](https://demonbeastop.github.io/Real-Time-Bilingual-Voice-Agent-Telephony/)
-
 Two recorded calls with the agent. Beeps and short cuts hide personal details
 and the client's name.
 
